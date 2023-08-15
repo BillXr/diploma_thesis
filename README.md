@@ -9,3 +9,8 @@ Information systems data in the form of event logs are analyzed in order to extr
 In this way it is possible to identify weak points and improve processes. 
 
 The diplomacy approach is applied to the Technical Excellence of five Dutch Municipalities using the ProM tool.
+
+## Stack
++ Data analysis
++ Project mining
++ Prom Tools
